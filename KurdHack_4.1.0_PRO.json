@@ -1,7 +1,7 @@
 {
   "status": "online",
   "version": "4.1.0",
-  "bypassVersion": 2,
-  "message": "KurdHack is Online",
+  "bypassVersion": 3,
+  "reason": "KurdHack is now active",
   "zip_url": "https://raw.githubusercontent.com/PROFESSORHACK0/KurdHack_loader/main/KurdHack_4.1.0_PRO.zip"
 }
