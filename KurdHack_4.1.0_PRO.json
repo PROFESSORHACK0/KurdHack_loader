@@ -1,4 +1,9 @@
 {
-  "status": "test"
+  "status": true,
+  "reason": "KurdHack is Online",
+  "data": {
+    "token": "TOKEN_HERE",
+    "rng": 1734560000,
+    "EXP": "2025-12-30"
+  }
 }
-
