@@ -1,9 +1,7 @@
 {
-  "status": true,
-  "reason": "KurdHack is Online",
-  "data": {
-    "token": "TOKEN_HERE",
-    "rng": 1734560000,
-    "EXP": "2025-12-30"
-  }
+  "status": "online",
+  "version": "4.1.0",
+  "bypassVersion": 5,
+  "message": "KurdHack is Online",
+  "zip_url": "https://raw.githubusercontent.com/PROFESSORHACK0/KurdHack_loader/main/KurdHack_4.1.0_PRO.zip"
 }
