@@ -1,3 +1,8 @@
 {
-  "bypassVersion": 2
-}
+  "status": true,
+  "data": {
+    "token": "KurdHack_Valid_2025",
+    "rng": 2000000000,
+    "EXP": "2026-12-30"
+  }
+} 
